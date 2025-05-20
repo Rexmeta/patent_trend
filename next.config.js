@@ -1,0 +1,6 @@
+module.exports = {
+  env: {
+    BIGQUERY_PROJECT_ID: process.env.BIGQUERY_PROJECT_ID,
+    GOOGLE_APPLICATION_CREDENTIALS: process.env.GOOGLE_APPLICATION_CREDENTIALS
+  }
+}; 
